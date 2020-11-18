@@ -1,0 +1,154 @@
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe.config
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.pdb
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csprojAssemblyReference.cache
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.menuForm.resources
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.Properties.Resources.resources
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.GenerateResource.cache
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.CoreCompileInputs.cache
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.exe
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.pdb
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\Guna.UI2.dll
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\M2Mqtt.Net.dll
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\M2MqttClientDotnetCore1.0.1.dll
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.CopyComplete
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.MainForm.resources
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe.manifest
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.application
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.exe.manifest
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.application
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockDayForm.resources
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.stockWeekForm.resources
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\dmsdn\source\repos\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.ResolveComReference.cache
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe.config
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe.manifest
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.application
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.pdb
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\M2Mqtt.Net.dll
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\M2MqttClientDotnetCore1.0.1.dll
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csprojAssemblyReference.cache
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.ResolveComReference.cache
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.menuForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.stockWeekForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.MainForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.Properties.Resources.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockDayForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.GenerateResource.cache
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.CoreCompileInputs.cache
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.exe.manifest
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.application
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.CopyComplete
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.exe
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.pdb
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe.config
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe.manifest
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.application
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.pdb
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\Guna.UI2.dll
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\M2Mqtt.Net.dll
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\M2MqttClientDotnetCore1.0.1.dll
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csprojAssemblyReference.cache
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.ResolveComReference.cache
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.menuForm.resources
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.stockWeekForm.resources
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.MainForm.resources
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.Properties.Resources.resources
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockDayForm.resources
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.GenerateResource.cache
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.CoreCompileInputs.cache
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.exe.manifest
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.application
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.CopyComplete
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.exe
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.pdb
+C:\Users\dmsdn\Desktop\HOME_IOT_NEW_SKIN(2020-10-16)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockAddForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csprojAssemblyReference.cache
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.ResolveComReference.cache
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockAddForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.menuForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockWeekForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.MainForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.Properties.Resources.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockDayForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.GenerateResource.cache
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.CoreCompileInputs.cache
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.exe
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.pdb
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe.config
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe.manifest
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.application
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.pdb
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\bin\Debug\M2Mqtt.Net.dll
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\bin\Debug\M2MqttClientDotnetCore1.0.1.dll
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockBuyForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockDelForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockSellForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.exe.manifest
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.application
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-18)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.CopyComplete
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe.config
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe.manifest
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.application
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.exe
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\bin\Debug\HOME_IOT_NEW_SKIN.pdb
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\bin\Debug\M2Mqtt.Net.dll
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\bin\Debug\M2MqttClientDotnetCore1.0.1.dll
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csprojAssemblyReference.cache
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.ResolveComReference.cache
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockAddForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockBuyForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockDelForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockSellForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.menuForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockWeekForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.MainForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.Properties.Resources.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.StockDayForm.resources
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.GenerateResource.cache
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.CoreCompileInputs.cache
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.exe.manifest
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.application
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.csproj.CopyComplete
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.exe
+C:\Users\dmsdn\OneDrive\바탕 화면\HOME_IOT_NEW_SKIN(2020-10-21)\HOME_IOT_NEW_SKIN\obj\Debug\HOME_IOT_NEW_SKIN.pdb
